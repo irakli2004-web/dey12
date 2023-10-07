@@ -1,0 +1,43 @@
+.box1{
+width: 1790PX;
+}
+footer{
+    background-color: rgb(48, 46, 46);
+    
+}
+h1{
+    justify-content: center;
+    display: flex;
+    color: aliceblue;
+}
+.box{
+    margin-left: 20px;
+ width: 570px;
+}
+.box3{
+    
+ background-color: black;
+}
+.box2{
+    margin-left: 50px;
+    width: 800px;
+    justify-content:space-around;
+}
+
+h2{
+   
+    margin-bottom: 20px;
+    justify-content: center;
+    display: flex;
+    color: aliceblue;
+}
+.box4{
+   margin-left: 1300px;
+
+}
+.box5{
+    margin: 10px;
+}
+.box9{
+    background-color: black;
+}
